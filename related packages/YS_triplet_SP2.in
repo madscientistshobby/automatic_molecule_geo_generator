@@ -1,0 +1,10 @@
+! PBE0 UKS def2-SVP def2/J DefGrid2 RIJCOSX TightSCF
+! NODIIS MOREAD
+%moinp "inp_orb_triplet.gbw"
+%maxcore 12000
+%pal
+nprocs 4
+end
+* xyzfile 0 3 filename
+%pal nprocs 4 end
+%pal nprocs 14 end

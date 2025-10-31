@@ -1,0 +1,3 @@
+! PBE0 UKS def2-SVP opt def2/J DefGrid2 RIJCOSX
+%maxcore 12000
+* xyzfile 0 1 filename

@@ -1,0 +1,5 @@
+! PBE0 UKS def2-SVP def2/J DefGrid2 RIJCOSX TightSCF
+%base "inp_orb_singlet"
+%maxcore 12000
+* xyzfile 0 1 filename
+%pal nprocs 14 end
