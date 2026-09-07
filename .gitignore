@@ -1,0 +1,36 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local Python / conda environments (keep environment.yaml tracked)
+.venv/
+venv/
+env/
+envs/
+.conda/
+
+# Chemistry calculation outputs
+*.xyz
+*.log
+*.chk
+*.fchk
+*.gbw
+*.out
+*.hess
+*.engrad
+*.densities
+*.prop
+*.tmp
+
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Generated files from this repository
+out/
+_debug/
+logs/
+regression_plots/
+regression_plots_multi/
